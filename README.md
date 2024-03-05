@@ -1,6 +1,6 @@
-# flutter_calculator_app
+## Flutter Calculator App
 
 A Flutter Calculator app for Android and iOS devices.
 
-## Demo (https://youtube.com/shorts/U6dQD3PWoCA?si=OAP4vzg6mBYjaOvc)
-![Flutter Calculator App Demo](https://github.com/Nahoot001/Flutter-Calculator-App-for-Android/assets/144270821/607ce87e-c25b-4e2f-9ed2-742bd836c70d)
+# Demo:
+https://github.com/NahomAbera/Flutter-Calculator-App/assets/144270821/cd536254-062a-4add-834a-f3a3be29afb3
