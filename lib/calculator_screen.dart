@@ -17,7 +17,7 @@ class _CalculatorScreenState extends State<calculator_screen> {
   @override
   Widget build(BuildContext context) {
     final screenSize = MediaQuery.of(context).size;
-    return Scaffold(
+    return Scaffold( 
       body: SafeArea(
         bottom: false,
         child: Column(
